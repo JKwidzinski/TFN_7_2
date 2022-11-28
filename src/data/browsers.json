@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Mozilla Firefox",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Mozilla_Firefox_logo_2013.svg/1200px-Mozilla_Firefox_logo_2013.svg.png",
+        "desc": "Mozilla Firefox is an open-source web browser developed by Mozilla."
+    },
+    {
+        "name": "Google Chrome",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/2048px-Google_Chrome_icon_%28February_2022%29.svg.png",
+        "desc": "Google Chrome is a web browser developed by Google, released in 2008."
+    },
+    {
+        "name": "Microsoft Edge",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Microsoft_Edge_logo_%282019%29.svg/480px-Microsoft_Edge_logo_%282019%29.svg.png",
+        "desc": "Microsoft Edge is a web browser developed by Microsoft, released in 2015."
+    }
+]
